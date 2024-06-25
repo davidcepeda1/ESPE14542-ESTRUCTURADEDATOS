@@ -1,0 +1,24 @@
+Nombre 1: David
+Nombre 2: Gustavo
+Apellido: Cepeda
+Cedula: 0605945104
+Password generado: adodepec
+Password encriptado: dgrghshf
+Correo: dgcepeda@espe.edu.ec
+
+Nombre 1: David
+Nombre 2: Gustavo
+Apellido: Cepeda
+Cedula: 0603267923
+Password generado: adodepec
+Password encriptado: cfqfgrge
+Correo: dgcepeda1@espe.edu.ec
+
+Nombre 1: Juan
+Nombre 2: Carlos
+Apellido: Perez
+Cedula: 0602921033
+Password generado: zjserep
+Password encriptado: cmvhuhs
+Correo: jcperez@espe.edu.ec
+

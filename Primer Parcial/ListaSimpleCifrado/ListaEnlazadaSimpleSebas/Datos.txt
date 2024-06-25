@@ -1,0 +1,3 @@
+Juan,Pedro,Garcia,1753688215,jpGarcia@espe.edu.ec
+Juanita,Prada,Garcia,1710520642,jpGarcia1@espe.edu.ec
+ESteban,David,Caicedo,1753688512,edCaicedo@espe.edu.ec

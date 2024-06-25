@@ -1,0 +1,6 @@
+Nombre 1: Juan
+Nombre 2: Carlos
+Apellido: Perez
+Cedula: 0605945104
+Password generado: zJsereP
+Password encriptado: cMvhuhS
